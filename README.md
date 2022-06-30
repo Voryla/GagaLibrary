@@ -12,7 +12,14 @@
 
 作品演示地址：[大二图书管理管理系统演示视频_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1P34y147ru/?vd_source=3bb392221986998942d6811690699178)
 
-项目结构：
+## 部分运行截图
+### 搜索页面
+![image-20220630224209002](https://raw.githubusercontent.com/Voryla/myimages/main/deepinJVM/20220630224209.png)
+### 用户中心
+![image-20220630224223727](https://raw.githubusercontent.com/Voryla/myimages/main/deepinJVM/20220630224223.png)
+
+
+## 项目结构：
 
 ![image-20220630223422294](https://raw.githubusercontent.com/Voryla/myimages/main/deepinJVM/20220630223422.png)
 
